@@ -5,7 +5,7 @@
 ---
 
 ## 💼 About Me
-I’m a **Software & Python Developer** with 4+ years of experience crafting scalable web applications and data pipelines. I thrive in Agile teams, delivering secure, high-performance solutions that drive business impact. :contentReference[oaicite:0]{index=0}
+I’m a **Software & Python Developer** with 4+ years of experience crafting scalable web applications and data pipelines. I thrive in Agile teams, delivering secure, high-performance solutions that drive business impact.
 
 ## 🛠️ Core Skills
 - **Languages & Frameworks:** Python, Java, JavaScript, HTML, CSS, SQL, Django, Flask, Node.js, Express.js, REST APIs, SOAP/XML  
@@ -15,7 +15,7 @@ I’m a **Software & Python Developer** with 4+ years of experience crafting sca
 - **Cloud & DevOps:** Azure (ADF, ADLS, App Services, Key Vault), AWS (IAM, RDS, EC2, S3, Lambda, Glue), Docker, Kubernetes, Jenkins, GitHub Actions  
 - **Version Control & IDEs:** Git, Bitbucket, Azure DevOps, IntelliJ, Eclipse, VS Code  
 - **Agile & Collaboration:** Scrum, Sprint Planning, Code Reviews, Pair Programming  
-- **Other:** Linux, Postman, Visio, API Integration, Networking Fundamentals :contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}
+- **Other:** Linux, Postman, Visio, API Integration, Networking Fundamentals
 
 ## 📫 Get In Touch
 - ✉️ patelarpan46@gmail.com  
