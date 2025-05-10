@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=00BCD4&width=600&lines=👋+Hello!+I'm+Arpan+Patel;Software+%26+Python+Developer;Building+Cloud-Native+%26+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=00BCD4&width=600&lines=👋+Hello!+I'm+Arpan+Patel;Software+Developer;Building+Cloud-Native+%26+AI+Solutions" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 💼 About Me
-I’m a **Software & Python Developer** with 3+ years of experience crafting scalable web apps and data pipelines. I thrive in Agile teams, delivering secure, high-performance solutions that drive business impact. :contentReference[oaicite:0]{index=0}
+I’m a **Software & Python Developer** with 4+ years of experience crafting scalable web applications and data pipelines. I thrive in Agile teams, delivering secure, high-performance solutions that drive business impact. :contentReference[oaicite:0]{index=0}
 
 ## 🛠️ Core Skills
 - **Languages & Frameworks:** Python, Java, JavaScript, HTML, CSS, SQL, Django, Flask, Node.js, Express.js, REST APIs, SOAP/XML  
@@ -16,10 +16,6 @@ I’m a **Software & Python Developer** with 3+ years of experience crafting sca
 - **Version Control & IDEs:** Git, Bitbucket, Azure DevOps, IntelliJ, Eclipse, VS Code  
 - **Agile & Collaboration:** Scrum, Sprint Planning, Code Reviews, Pair Programming  
 - **Other:** Linux, Postman, Visio, API Integration, Networking Fundamentals :contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}
-
-## 📈 GitHub Stats
-![Arpan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=arpan0298&show_icons=true&theme=radical)
-
 
 ## 📫 Get In Touch
 - ✉️ patelarpan46@gmail.com  
