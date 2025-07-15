@@ -18,6 +18,4 @@ I’m a **Software & Python Developer** with 4+ years of experience crafting sca
 - **Other:** Linux, Postman, Visio, API Integration, Networking Fundamentals
 
 ## 📫 Get In Touch
-- ✉️ patelarpan46@gmail.com  
-- 🔗 [linkedin.com/in/ap0202](https://www.linkedin.com/in/ap0202)  
-- 🌐 [arpan.website](https://patelarpan.framer.website/)
+- 🔗 [linkedin.com/in/ap0202](https://www.linkedin.com/in/bp0202)  
